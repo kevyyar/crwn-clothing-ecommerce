@@ -1,4 +1,4 @@
-import Directory from "../components/Directory/directory.component";
+import Directory from "../../components/Directory/directory.component";
 
 // react functional component
 const Home = () => {
