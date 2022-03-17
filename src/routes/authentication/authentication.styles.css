@@ -1,0 +1,7 @@
+.auth-container {
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+  margin: 40px auto;
+}
+/*# sourceMappingURL=authentication.styles.css.map */
